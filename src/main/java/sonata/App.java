@@ -3,6 +3,7 @@ package sonata;
 /**
  * Hello world!
  *
+ *
  */
 public class App 
 {
